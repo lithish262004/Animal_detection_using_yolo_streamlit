@@ -1,0 +1,6 @@
+pip install ultralytics
+pip install numpy
+pip install opencv-python
+pip install streamlit
+ensure that you have the YOLOv5 model weights file (best.pt). You should place this file in the same directory as your script.
+you can run the application with the following command: streamlit run your_script_name.py
